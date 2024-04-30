@@ -1,0 +1,20 @@
+p {
+    font-weight: bold;
+}
+
+
+table {
+    margin: 0 auto; 
+    font-weight: bold;
+    border-collapse: collapse;
+     position: center;
+}
+
+
+th, td {
+    border: 1px solid black;
+    padding: 8px;
+}
+
+
+
