@@ -59,7 +59,7 @@
 <div class="dropdown">
   <button class="dropbtn">&#8942;</button>
   <div class="dropdown-content">
-    <a href="site_web.php">Revenir à la page d'accueil</a>
+    <a href="index.html">Revenir à la page d'accueil</a>
     <a href="logout.php">deconnexion</a>
   </div>
 </div>
